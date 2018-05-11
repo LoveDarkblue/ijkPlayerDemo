@@ -75,8 +75,6 @@ public class SampleMediaListFragment extends Fragment {
         mAdapter.addItem("http://cdn.can.cibntv.net/12/201702161000/rexuechangan01/rexuechangan01.m3u8", "m3u8");
         mAdapter.addItem("http://playertest.longtailvideo.com/adaptive/wowzaid3/playlist.m3u8", "m3u81");
         mAdapter.addItem("http://cdn3.viblast.com/streams/hls/airshow/playlist.m3u8", "4k_m3u8");
-        mAdapter.addItem("http://7te9f7.com1.z0.glb.clouddn.com/4k_test.mp4", "4k_mp4");
-        mAdapter.addItem("http://7te9f7.com1.z0.glb.clouddn.com/D5540154E574EBA1862B7220D2ED46B1.mp4", "mp4");
         mAdapter.addItem("http://devimages.apple.com.edgekey.net/streaming/examples/bipbop_4x3/bipbop_4x3_variant.m3u8", "bipbop basic master playlist");
         mAdapter.addItem("http://devimages.apple.com.edgekey.net/streaming/examples/bipbop_4x3/gear1/prog_index.m3u8", "bipbop basic 400x300 @ 232 kbps");
         mAdapter.addItem("http://devimages.apple.com.edgekey.net/streaming/examples/bipbop_4x3/gear2/prog_index.m3u8", "bipbop basic 640x480 @ 650 kbps");
